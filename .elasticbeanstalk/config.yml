@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: null
+    environment: railshop-env
 global:
   application_name: railshop
   default_ec2_keyname: Filezilla
