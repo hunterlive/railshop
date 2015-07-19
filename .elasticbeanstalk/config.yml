@@ -4,7 +4,7 @@ branch-defaults:
 global:
   application_name: railshop
   default_ec2_keyname: Filezilla
-  default_platform: Ruby 1.9.3
+  default_platform: Ruby 2.1 (Puma)
   default_region: us-west-2
   profile: eb-cli
   sc: git
