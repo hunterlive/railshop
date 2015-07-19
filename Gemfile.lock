@@ -194,6 +194,7 @@ GEM
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (2.9.2)
+    nifty-attachments (1.0.4)
     nifty-dialog (1.0.7)
     nifty-key-value-store (1.0.2)
     nifty-utils (1.0.9)
@@ -305,6 +306,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
+  nifty-attachments
   rails (= 4.2.3)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
